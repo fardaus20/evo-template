@@ -1,0 +1,929 @@
+/* XL Device :1500px. */
+
+@media (min-width: 1500px) and (max-width: 1900px) {
+  
+ /* offcanvas-menu css*/
+
+.offcanvas-menu{
+  width:490px;
+  height: 100%;
+  padding: 90px;
+   
+}
+  .canvas-menu-item{
+    margin-right:90px
+  }  
+  
+  
+.close-icon i {
+   top: 75%;
+  right: 400px;
+  
+}
+
+.girl-img img {
+  margin-left:-60px;
+  margin-top:-80px
+}
+  .canvas-info h5{
+    margin-left:-90px
+  }
+  .canvas-info p{
+     margin-left:-90px
+  }
+
+.canvas-social{
+  margin-left:-25px;
+}
+
+.pshape-1{
+ margin-left:420x;
+ }
+
+
+.pshape-2{
+  margin-left: -50px;
+  margin-top: 250px;
+}
+
+
+.pshape-3{
+  margin-left:250px;
+  margin-top:400px
+}
+
+.pshape-4{
+   margin-left:82%;
+  margin-top:230px
+}
+
+
+  
+  
+  
+.menu-icon img{
+  padding-right:150px
+ }
+  
+.author-img{
+  padding:0 35px 0 160px;
+   
+}
+  
+.author-img img{
+  margin-left:-140px
+}
+
+  .home-content p{
+   padding-top:90px;
+    font-size: 46px
+  }
+  
+  .home-content h1{
+    font-size: 90px
+  }
+  .about ,
+  .experince,
+  .portfolio,
+  .qualification-area,
+  .team,
+  .contact,
+  .brand,
+  .blog-area{
+    margin-left: -99px
+  } 
+  .about-bg-shape{
+    right: 60px
+  } 
+  
+  .about-right{
+    margin-left: 80px;
+  } 
+  
+  .about .downlod{
+    margin-left:80px
+  }
+  .skill-content{
+  margin-left: -40px
+  } 
+  
+  
+  
+  .experience-shape{
+    left: 180px
+  }
+  
+  .contact-shape-1{
+    left: 190px
+  }
+  .contact-shape-2{
+    right: 180px;
+    width: 170px
+  }
+  .blog-shape{
+    right: 210px;
+    width: 180px;
+    top: 80px
+  }
+  
+  .footer-menu ul  li a{
+    font-size: 19px
+  }
+}
+
+
+/* XL Device :1200px. */
+
+@media (min-width: 1200px) and (max-width: 1499px) {
+  
+  .offcanvas-menu{
+    width: 340px;
+  }
+ .pshape-1{
+    margin-left: 390px;
+ }
+
+
+.pshape-2{
+  margin-left: -40px;
+  margin-top: 250px;
+}
+
+.pshape-3{
+  margin-left:190px;
+  margin-top:370px
+}
+
+.pshape-4{
+   margin-left:94%;
+  margin-top:230px
+}
+
+
+  
+  
+  
+}
+   
+
+  
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1199px) {
+  
+  .offcanvas-menu{
+    width: 340px
+  }
+  
+ /* home CSS */  
+  
+   .pshape-1{
+ margin-left: 280px;
+ }
+
+
+.pshape-2{
+  margin-left: -30px;
+  margin-top: 250px;
+}
+
+
+.pshape-3{
+  margin-left:90px;
+  margin-top:380px
+}
+
+.pshape-4{
+   margin-left:94%;
+  margin-top:230px
+}
+
+
+  
+  .home-content h1{
+    font-size: 60px;
+    line-height: 70px
+ }
+   
+  .home-content p{
+   margin-top:90px
+  }
+  
+  .author-img{
+  padding:0 5px 0 0px;
+  }
+  
+/* about CSS */ 
+
+  .single-about-content h2{
+    font-size: 20px;
+  }
+  
+ 
+  
+/* about left CSS */ 
+
+  .about-left {
+    padding:0 14px 0;
+      
+  }
+  
+  .about-left img{
+    width: 100%
+  }
+  .about-left-shape{
+    width: 80px
+  }
+  .left-shape-2{
+    margin-left: 30px
+  }
+  .left-shape-3{
+    margin-right: 40px
+  }
+     
+  /* about right css */ 
+  
+  .about-right{
+    margin-left:10px;
+    margin-top:5px
+  }
+
+  .about-right h3{
+   font-size: 43px;
+    margin-top:12px
+ 
+  }
+  .about-right p{
+    font-size: 12px;
+    margin-bottom: 0
+  }
+  .about-btn a{
+    font-size: 14px;
+	  padding: 10px 25px;
+  }
+  
+ /*qualification CSS */   
+  
+  
+  /*experiance CSS */ 
+
+  .single-experience h4{
+   font-size: 23px
+  }
+  
+  /* service CSS */ 
+
+  .single-service h4{
+    font-size: 26px
+  }
+  
+  .single-service p{
+    font-size: 13px;
+    line-height: 24px
+  }
+  
+  .single-team img{
+   width: 290px
+  } 
+  
+  .hover-icon{
+    margin-left:-20px
+  }
+  
+  .single-team h2{
+    font-size: 24px;
+ }
+  /*testimonial CSS */ 
+  
+  .testimonial-right{
+    margin-left: 170px
+  }
+  
+ .testimonial-right h4{
+    font-size: 26px
+  }
+  
+  .testimonial-right p{
+   line-height: 27px
+  }
+  
+  .testi-info-details{
+    top: 550px;
+    margin-left: 25px
+  }  
+  
+  .testi-quality span{
+    font-size: 16px
+  }  
+ 
+}
+
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+  
+  .offcanvas-menu{
+    width: 330px
+  }
+  
+  .offcanvas-menu .canvas-social{
+   margin-left:30px
+  } 
+  
+  
+.pshape-1{
+ margin-left: 220px;
+ }
+.pshape-1 img{
+  width: 80px;
+}
+
+.pshape-2{
+  margin-left: -50px;
+  margin-top: 250px;
+}
+.pshape-2 img{
+  width: 60px
+}
+
+.pshape-3{
+  margin-left:50px;
+  margin-top:340px
+}
+.pshape-3 img{
+  width: 60px
+}
+.pshape-4{
+   margin-left:94%;
+  margin-top:230px
+}
+
+.pshape-4 img{
+  width: 80px
+}
+  
+ /* home CSS */  
+ 
+  .home-content h1{
+    font-size: 40px;
+    line-height: 50px
+ }
+    
+  .author-img img{
+    height:470px;
+     
+  }
+    
+.menu-icon img{
+  margin-right:-10px
+ }
+  
+/* about CSS */ 
+
+  .single-about-content h2{
+    font-size:
+  }
+  
+.col-sm-6{
+    flex: 0 0 50%;
+    max-width: 50%;  
+  }
+  
+  .col-12{
+    flex: 0 0 90%;
+   max-width: 100%;
+  } 
+  
+/* about left CSS */ 
+
+  .about-left {
+    padding:0 24px 0;
+      
+  }
+  
+   .about-left-shape img{
+    width: 80px
+  }  
+  .left-shape-2{
+    padding-left:30px;
+  }
+  
+  .left-shape-3{
+    padding-right:40px;
+  }
+   
+       
+  /* about right css */ 
+  
+  .about-right{
+    margin-left:20px;
+    margin-top:90px;
+  }
+
+  .about-right h3{
+   font-size: 40px;
+    margin-top:12px
+ 
+  }
+  .about-right p{
+    font-size: 14px;
+    margin-bottom: 20px;
+  }
+  .about-btn {
+   margin-left:-30px;
+   margin-top: 20px 
+	  
+  }
+  
+  /*experiance CSS */ 
+  .single-experience h4{
+    font-size: 17px
+  }
+  .single-experience span{
+    font-size: 12px
+  }
+  .single-experience p{
+    font-size: 13px;
+    line-height:20px;
+    width: 150px
+  }
+  
+  .experince-icon:after{
+    left:120px;
+  
+  }
+
+.quali-shape{
+    bottom:10px;
+    left: 480px;
+    width: 120px
+  }
+  /* team CSS */ 
+  
+  .single-team img{
+    width: 220px
+  }
+  
+  .hover-icon a i{
+    width: 30px;
+   height: 30px;
+  }
+ 
+  .hover-icon{
+    margin-left:-30px
+  }
+  
+  /*testimonial CSS */ 
+  
+  .testimonial-left img{
+    width: 640px
+  }
+  .testimonial-right{
+    margin-left:50px;
+    margin-top: -50px
+  }
+  
+  .testi-info-details{
+    top:390px;
+   left:130px
+  }
+ 
+
+  /*BLOG CSS */ 
+.blog-meta{
+  font-size: 12PX
+}
+
+.blog-inner h2 a{
+  font-size: 19px
+}
+
+.blog-inner p{
+  font-size:13px;
+}
+
+
+ /*footer top CSS */ 
+  .footer-menu{
+    width: 500px;
+    margin-left: -180px;
+    padding-top: 15px
+  }
+  .footer-menu ul li a{
+   padding-right:2px 
+  }
+  
+ /*footer bottom CSS */ 
+
+.input-group input{
+  width: 190px;
+  font-size: 12px
+}
+
+.input-group button{
+  width: 120px;
+  font-size: 13px
+}
+  
+  .contact-shape-2{
+   top: 60px;
+    right: 60px;
+    width: 90px
+  } 
+  
+  
+  
+}
+
+/* Extra small Device. */
+@media (max-width: 767px) {
+  
+  .section-title h3{
+    font-size: 60px;
+    
+  }
+  
+  .section-title{
+    margin-bottom: -20px
+  } 
+  
+  
+  .pshape-3 img{
+    margin-top:-250px
+  }
+  
+  
+  
+}
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+.header-sticky{
+  padding: 12px 80px
+}
+  
+  .offcanvas-menu .canvas-social{
+    margin-left:-10px
+  }  
+  
+ .pshape-1{
+ margin-left: 120px;
+ }
+.pshape-1 img{
+  width: 80px;
+}
+
+.pshape-2{
+  margin-left: -70px;
+  margin-top: 250px;
+}
+.pshape-2 img{
+  width: 60px
+}
+
+.pshape-3{
+  margin-left:50px;
+  margin-top:340px
+}
+.pshape-3 img{
+  width: 60px
+}
+.pshape-4{
+   margin-left:99%;
+  margin-top:230px
+}
+
+.pshape-4 img{
+  width: 80px
+}
+   
+  
+  .logo{
+    margin-left:-60px
+  }
+  
+  .menu-icon{
+    margin-right: -70px;
+  }
+  
+  .home-content h1{
+    font-size:40px;
+    line-height:50px
+  }
+  
+  .home-content-wrap{
+    margin-left:-60px
+  }
+  
+  .home-content p{
+    font-size: 25px
+  }
+  
+.author-img {
+	    position: absolute;
+	    bottom: 0;
+	    display: block;
+	    left: 240px;
+      width: 280px
+	}
+   
+  .offcanvas-menu{
+    right: -300px;
+		width: 300px;
+		
+	}
+  .img-bg{
+    width: 510px
+  }
+
+  .about-left-shape img{
+    width: 80px
+  }  
+  .left-shape-2{
+    padding-left:30px;
+  }
+  
+  .left-shape-3{
+    padding-right:40px;
+  }
+  
+  .about-right{
+    margin-top: 80px;
+  }
+  
+  .quali-shape{
+    bottom:10px;
+    left: 450px;
+    width: 100px
+  }
+  
+  .single-experience{
+    margin-top: 20px;
+  }  
+  
+  .single-team img{
+    width: 500px
+  }
+  
+  .hover-icon{
+    margin-left:70px;
+    
+  }
+  
+  .single-team{
+    margin-top: 70px
+  } 
+  
+  .testimonial-right{
+   margin-left: 30px
+  }
+  
+  .testi-info-details{
+   left:110px
+  } 
+  
+  .contact-shape-2{
+   top: 70px;
+    right: 20px;
+    width: 80px
+  } 
+  
+  .single-blog-content{
+    margin-top: 70px
+  }
+  
+  .blog-shape{
+    right: 20px;
+    width: 120px
+  }
+  
+  .footer-top .logo a{
+    font-size: 40px;
+    padding-left: 40px
+  }
+  
+  .footer-menu ul li a{
+    font-size: 15px;
+    
+  }
+  .footer-menu{
+    margin-top: -30px
+  }
+  
+  .subscribe-area{
+    margin-right:110px;
+    margin-top:20px
+  }
+
+  .subscribe-area{
+    margin-top: 40px
+  }
+  
+  .subscribe-area button{
+    margin-top: 20px
+  }
+
+  
+}
+
+
+
+@media (max-width: 400px) {
+  
+  .section-title h3{
+    font-size: 40px;
+    line-height: 40px
+  }
+    
+  header .logo a {
+   margin-left:-80px;
+  font-size: 45px;
+   
+  }
+
+  .header-sticky{
+    padding: 10px 85px
+  }
+  
+  .menu-icon{
+    margin-right: -80px
+  }
+  .menu-icon img{
+    width:40px
+  }
+  
+  .offcanvas-menu .canvas-social{
+    margin-left:-10px
+  }  
+  
+ .offcanvas-menu{
+    right: -300px;
+		width: 295px;
+		
+	}  
+  
+  .offcanvas-menu ul li a{
+    font-size: 13px
+  }
+   
+  .home-content h1{
+    font-size: 22px;
+    line-height:24px;
+    margin-left:-80px
+  }
+  
+  .home-content p{
+    font-size: 17px;
+     margin-left:-80px
+  }
+  
+  .author-img img{
+    margin-bottom: 180px;
+    margin-left:70px
+  } 
+  
+   .pshape-1{
+ margin-left: 50px;
+     
+ }
+.pshape-1 img{
+  width: 50px;
+}
+
+.pshape-2{
+  margin-left: -70px;
+  margin-top: 250px;
+}
+.pshape-2 img{
+  width: 50px
+}
+
+.pshape-3{
+  margin-left:20px;
+ 
+}
+.pshape-3 img{
+  width: 50px;
+  margin-top:-190px
+  }
+.pshape-4{
+   margin-left:90%;
+  margin-top:250px
+}
+
+.pshape-4 img{
+  width: 40px
+}
+
+  .about-left .img-bg{
+    width: 270px
+  }
+  .about-left-shape img{
+    width: 60px
+  }
+  .left-shape-1{
+    top: -15px
+  }
+  .left-shape-2{
+   left: 10px;
+    top: 260px
+  }
+  .left-shape-3{
+    right:10px
+  }
+  .about-left .img-bg{
+    width: 370px
+  } 
+   .about-right{
+    margin-top:70px;
+    margin-left:20px
+  }
+  .about-right h3{
+    font-size:25px 
+  }
+  
+  .about-right p{
+    font-size: 13px
+  }
+  
+  .about-right .p-color{
+    font-size: 14px;
+  }
+  .about-btn .hire{
+    margin-top: 20px
+  }
+  
+ .quali-shape{
+    left: 310px;
+    bottom: 20px
+  }
+  
+  .quali-title h4{
+    font-size: 37px
+  }
+  
+  .single-blog-content{
+    margin-top:40px
+  }
+  
+  .quali-shape img{
+    width: 80px
+  }
+  
+   .service-btn{
+    margin-top: 90px;
+    margin-right:198px
+  }
+  
+  .team img{
+    width: 370px
+  }
+  
+   .testimonial-left img{
+    width: 350px
+  }
+  .testimonial-right{
+    margin-left:20px;
+  }
+  
+  
+ .testi-quality span{
+    font-size: 17px
+  }
+  
+  .testi-info-details{
+    top:570px;
+    left: 99px;
+  }  
+.portfolio-hover span{
+    font-size: 12px
+  }
+  
+  .footer-menu ul{
+    margin-left:-60px;
+    margin-top: 30px
+  }
+  
+  .footer-menu ul li a{
+    font-size: 14px
+  }
+  
+  .subscribe-area button{
+    margin-top: 20px
+  }
+  
+  .contact-shape-2{
+    width: 60px
+  }
+  
+  .blog-shape img{
+    width: 90px
+  }
+  
+  .subscribe-area{
+    margin-top: 40px
+  }
+  
+  
+}
